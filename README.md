@@ -7,3 +7,17 @@ I'm looking forward **to learn more about Git and GitHub**
 ## A local image
 That is a beautiful image to the introduction : 
 (![GitHub logo](github-mark.png))
+
+## What I learn ? 
+In this assignment, I learn main concepts like :  
+- Git, GitHub and GitHub Desktop
+- a repository
+- a branch 
+- a commit changes 
+
+I aslo learn to use : 
+- GitHub
+- GitHub Desktop 
+- a VS Code
+
+To conclude, this work took me between 1 and 1.5 hours. 
